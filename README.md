@@ -17,8 +17,9 @@ Run the script from a terminal:
 
 ```bash
 ./getlink.sh
-For the Chinese server, add --china:
 ```
+
+For the Chinese server, add --china:
 
 ```bash
 ./getlink.sh --china
